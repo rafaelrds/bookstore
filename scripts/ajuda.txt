@@ -1,0 +1,2 @@
+Use os scripts da seguinte maneira:
+   ./script.sh numero_requisições minutos_de_medição
