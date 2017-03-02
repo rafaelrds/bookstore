@@ -1,2 +1,6 @@
+Para instalar as dependências de python
+- Instale o `pip`
+- Execute `pip install -r requirements.txt`
+
 Use os scripts da seguinte maneira:
    ./script.sh numero_requisições minutos_de_medição
