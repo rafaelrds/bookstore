@@ -26,8 +26,8 @@ print result.deleted_count
 # # create dictionary
 genre_record = {}
  
-# insert 10,000
-flag = 10000
+# insert 1,000
+flag = 1000
 
 import sys
 
