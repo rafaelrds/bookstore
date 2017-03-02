@@ -9,7 +9,7 @@
   "dependencies":{
   	"express":"*",
   	"body-parser":"*",
-  	"mongoose":"*"
+  	"mysql":"*"
   },
   "author": "Brad Traversy",
   "license": "ISC"
